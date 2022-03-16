@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946855786684",
+    "project_id": "succourapp2",
+    "storage_bucket": "succourapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946855786684:android:0106aac6cc9a2f60c978b9",
+        "android_client_info": {
+          "package_name": "com.example.succourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946855786684-5p1q6nulhp9cuh2hn1nnde44pigh2sqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjNff1ac9OIZ-DsxPid1xMoPueZQA_pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946855786684-5p1q6nulhp9cuh2hn1nnde44pigh2sqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

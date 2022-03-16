@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuccourApp</string>
+    <string name="title_activity_my_location">MyLocation</string>
+</resources>
